@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Elegant Silk Saree",
+    "description": "A beautiful handwoven silk saree with intricate zari work.",
+    "price": 249.99,
+    "image": "/images/silk-saree.jpg",
+    "category": "Sarees",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "Designer Lehenga",
+    "description": "Stunning designer lehenga with sequin embellishments.",
+    "price": 399.99,
+    "image": "/images/designer-lehenga.jpg",
+    "category": "Lehengas",
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "name": "Classic Kurta Set",
+    "description": "Comfortable and stylish kurta set for festive occasions.",
+    "price": 129.99,
+    "image": "/images/kurta-set.jpg",
+    "category": "Kurtas",
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "name": "Party Wear Gown",
+    "description": "Elegant party wear gown with modern design.",
+    "price": 299.99,
+    "image": "/images/party-gown.jpg",
+    "category": "Gowns",
+    "stock": 7
+  },
+  {
+    "id": 5,
+    "name": "Cotton Anarkali Dress",
+    "description": "Breathable cotton anarkali dress for daily wear.",
+    "price": 99.99,
+    "image": "/images/anarkali-dress.jpg",
+    "category": "Anarkalis",
+    "stock": 15
+  }
+]
